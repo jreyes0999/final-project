@@ -1,4 +1,5 @@
-# final-project 
+# final-project by Jonathan and Alston
+
 ## Cooperation Plan
 * The key strengths of Alston is HTML and my key strengths are JS and CSS.
 * Alston will be able to work on the HTML and organize images on the webpages and I will work on the functionality of the websites as well as customization. 
